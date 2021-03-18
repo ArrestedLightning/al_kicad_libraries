@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI8642AB-B-IS1R
+D General Purpose Digital Isolator 2500Vrms 4 Channel 1Mbps 35kV/µs CMTI 16-SOIC (0.154", 3.90mm Width)
+K 4Ch 2In 2Out Quad Digital Isolator 1Mbps
+F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AQH1213A
+D SSR RELAY SPST-NO 600MA 0-600V
+K Opto-Triac Opto Triac Zero Cross Solid State Relays
+F https://www3.panasonic.biz/ac/e_download/control/relay/solid-state/catalog/semi_eng_aqh.pdf
+$ENDCMP
+#
+$CMP EL3H7
+D OPTOISOLATOR 3.75KV TRANS 4-SSOP
+K NPN DC Optocoupler
+F https://everlightamericas.com/index.php?controller=attachment&id_attachment=2584
+$ENDCMP
+#
+#End Doc Library

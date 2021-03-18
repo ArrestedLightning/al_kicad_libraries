@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6401T-E_LT
+D IC OPAMP GP 1MHZ RRO SC70-5
+K single opamp
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en546637
+$ENDCMP
+#
+#End Doc Library
