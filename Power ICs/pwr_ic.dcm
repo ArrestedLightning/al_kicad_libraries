@@ -1,5 +1,59 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2664
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 40mA, SOT-23-6
+K Switched capacitor inverter
+F https://www.ti.com/lit/gpn/lm2664
+$ENDCMP
+#
+$CMP LM828
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 25mA, SOT-23-5
+K Switched capacitor inverter
+F https://www.ti.com/lit/gpn/lm828
+$ENDCMP
+#
+$CMP LP7801D
+D 1A Li-ion battery charger and 5.1V boost converter
+$ENDCMP
+#
+$CMP MAX1697
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 60mA, SOT-23-6
+K Switched capacitor inverter
+F https://datasheets.maximintegrated.com/en/ds/MAX1697.pdf
+$ENDCMP
+#
+$CMP MAX1720
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 25mA, SOT-23-6
+K Switched capacitor inverter
+F https://datasheets.maximintegrated.com/en/ds/MAX1719-MAX1721.pdf
+$ENDCMP
+#
+$CMP MAX1721
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 25mA, SOT-23-6
+K Switched capacitor inverter
+F https://datasheets.maximintegrated.com/en/ds/MAX1719-MAX1721.pdf
+$ENDCMP
+#
+$CMP MBI5043GP
+D  16-Channel SPWM  Constant Current LED Driver
+K LED Driver PWM
+F https://www.mblock.com.tw/upload/Datasheet/LED%20Driver%20IC/MBI5043/MBI5043%20Preliminary%20Datasheet%20VA.00-EN.pdf
+$ENDCMP
+#
+$CMP TL431
+D 2.5V shunt voltage reference
+$ENDCMP
+#
+$CMP TP4057
+D 500mA Li-ion battery charger
+$ENDCMP
+#
+$CMP TPS6040x
+D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 60mA, SOT-23-5
+K Switched capacitor inverter
+F https://www.ti.com/lit/gpn/tps60400
+$ENDCMP
+#
 $CMP VXO7805-500
 D 500mA Step-Down DC/DC-Regulator, 7-28V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
 K dc-dc recom Step-Down DC/DC-Regulator

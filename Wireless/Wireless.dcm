@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI4705-D60-GM
+D SILICON LABS - SI4705-D60-GM - RF RECEIVER, 108MHZ, -20 TO 85DEG C
+F https://www.silabs.com/documents/public/data-sheets/Si4704-05-D60.pdf
+$ENDCMP
+#
+$CMP Si4705-D60-GU
+D RF Receiver FM receiver with RDS, short antenna capable
+F https://componentsearchengine.com/Datasheets/34/SI4705-D60-GU.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH559L
+F https://lcsc.com/product-detail/USB_CH559L_C150548.html
+$ENDCMP
+#
+$CMP CH559T
+F https://lcsc.com/product-detail/USB_CH559T_C85215.html
+$ENDCMP
+#
+$CMP GD32F103C8T6
+D 64K Flash 20KB SRAM
+$ENDCMP
+#
+$CMP GD32F103CBT6
+D 128K Flash 20K SRAM
+$ENDCMP
+#
+$CMP STM32F103CBT6
+D 128K Flash 20K SRAM
+$ENDCMP
+#
+#End Doc Library
