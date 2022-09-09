@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC1G74DC,125
+D C503431
+F https://datasheet.lcsc.com/lcsc/2004031203_Nexperia-74LVC1G74DC-125_C503431.pdf
+$ENDCMP
+#
 $CMP MC14049UBDG
 D Hex inverter/buffer, Low-Voltage CMOS
 K Single Gate Buffer Inverting
@@ -9,6 +14,10 @@ $CMP SN74LV1T34DCKR
 D Single Buffer Gate, Low-Voltage CMOS
 K Single Gate Buff Level Shifting
 F http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G74DCUR_C70285
+F https://lcsc.com/product-detail/74-Series_TI_SN74LVC1G74DCUR_SN74LVC1G74DCUR_C70285.html
 $ENDCMP
 #
 $CMP SN74LVC2G14DBVR

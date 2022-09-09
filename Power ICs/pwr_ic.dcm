@@ -1,9 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FM8002A
+F https://lcsc.com/product-detail/Audio-OpAmps_FM8002A_C94625.html
+$ENDCMP
+#
 $CMP LM2664
 D Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 40mA, SOT-23-6
 K Switched capacitor inverter
 F https://www.ti.com/lit/gpn/lm2664
+$ENDCMP
+#
+$CMP LM4890
+D C189961
+F https://lcsc.com/product-detail/Audio-OpAmps_FM8002A_C94625.html
 $ENDCMP
 #
 $CMP LM828
@@ -38,6 +47,15 @@ $CMP MBI5043GP
 D  16-Channel SPWM  Constant Current LED Driver
 K LED Driver PWM
 F https://www.mblock.com.tw/upload/Datasheet/LED%20Driver%20IC/MBI5043/MBI5043%20Preliminary%20Datasheet%20VA.00-EN.pdf
+$ENDCMP
+#
+$CMP NS4150B
+D C189961
+F https://lcsc.com/product-detail/Audio-OpAmps_FM8002A_C94625.html
+$ENDCMP
+#
+$CMP SY8113IADC
+F https://lcsc.com/product-detail/New-Quadratic-Unclassified-Data_Silergy-Corp-SY8113IADC_C479075.html
 $ENDCMP
 #
 $CMP TL431
